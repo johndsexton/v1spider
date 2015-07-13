@@ -1,0 +1,25 @@
+body {
+  padding-top: 2.25em;
+}
+.starter-template {
+  padding: 1.5em 1em;
+  text-align: center;
+}
+#crawller label {
+  width: 25%;
+}
+#crawller select {
+  width: 20%;
+}
+#crawller span {
+  width: 10%;
+}
+#output,
+#errors,
+#logs {
+  text-align: left;
+}
+#output ul {
+  list-style: none;
+}
+Enter file contents here
